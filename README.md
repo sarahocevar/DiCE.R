@@ -14,4 +14,4 @@ For support please contact tommi.a.perala@jyu.fi
 Tommi Perälä, Sara Hocevar, Jaakko Litmanen,  Tiina Sävilammi, Anna Kuparinen
 
 ## License
-See LICENSE for details
+See LICENSE or Apache-2.0 license for details 
