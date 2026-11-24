@@ -8,7 +8,7 @@ DiCE.R is a solution for anyone who wishes to skip the programmatic implementati
 For installation and usage refer to Docs/DiCER_User_Guide.pdf
 
 ## Support
-For support please contact tommi.a.perala@jyu.fi
+For support please contact sara.s.hocevar@jyu.fi
 
 ## Authors and acknowledgment
 Tommi Perälä, Sara Hocevar, Jaakko Litmanen,  Tiina Sävilammi, Anna Kuparinen
