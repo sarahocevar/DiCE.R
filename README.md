@@ -11,7 +11,9 @@ For installation and usage refer to Docs/DiCER_User_Guide.pdf
 For support please contact sara.s.hocevar@jyu.fi
 
 ## Authors and acknowledgment
-Tommi Perälä, Sara Hocevar, Jaakko Litmanen,  Tiina Sävilammi, Anna Kuparinen
+Tommi Perälä, Sara Hocevar, Tiina Sävilammi, Jaakko Litmanen,  Anna Kuparinen
+
+We thank Sami Lehtinen for testing the software. This study was funded by the Academy of Finland (project grant 317495 to A.K.), by the Nordforsk (consortium grant IMP-FISH no. 195538a), and the European Research Council (COMPLEX-FISH 770884 to A.K.). The present study reflects only the authors’ view; the European Research Council is not responsible for any use that may be made of the information it contains.
 
 ## License
 See LICENSE or Apache-2.0 license for details 
